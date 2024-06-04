@@ -1,0 +1,11 @@
+
+*.py
+!近义词抽查程序.py
+!problem.py
+!generateProblemList.py
+*.ui
+!近义词抽查界面.ui
+!近义词单词抽查选择单词数界面.ui
+_pycache_/
+*.pyc
+*.pptx
