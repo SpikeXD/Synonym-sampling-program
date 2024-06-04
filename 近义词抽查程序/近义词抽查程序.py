@@ -349,6 +349,7 @@ class ChoiceNumberWindow(MyWindow):
         super().__init__(fp)
         self.init_ui()
 
+    https: // github.com / SpikeXD / -.git
     def init_ui(self):
         super().init_ui()
 
